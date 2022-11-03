@@ -1,0 +1,7 @@
+{
+  "name": "ecv-mobile-list-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
